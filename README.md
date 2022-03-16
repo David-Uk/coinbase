@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Version
 
-View the live version on [Coinbase](https://reactcoinbase.netlify.app/)
+View the live version on [Coinbase](https://reactcoinsearch.netlify.app/)
 
 ## Available Scripts
 
